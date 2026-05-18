@@ -1,0 +1,15 @@
+Git 버전 관리 연습
+
+이름: 김창희
+학번: 2024245105
+
+Git 3단계 작업
+1. Modified  - 파일 수정
+2. Staged    - git add
+3. Committed - git commit
+
+- git init
+- git add
+- git commit
+- git push
+- git pull
