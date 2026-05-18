@@ -1,0 +1,9 @@
+Git 파일 상태 종류
+
+1. Untracked  - git이 추적하지 않는 파일
+2. Unmodified - 수정되지 않은 파일
+3. Modified   - 수정된 파일
+4. Staged     - 커밋 대기 중인 파일
+
+git add 하면 Staged 상태가 된다
+git commit 하면 Unmodified 상태가 된다
